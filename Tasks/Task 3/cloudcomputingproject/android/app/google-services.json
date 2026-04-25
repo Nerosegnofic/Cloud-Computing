@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710751714437",
+    "project_id": "cloudcomputingproject-5deca",
+    "storage_bucket": "cloudcomputingproject-5deca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710751714437:android:e399cb75d4665346753dec",
+        "android_client_info": {
+          "package_name": "com.example.cloudcomputingproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz-lKC2EdR2Pu8kDzFlL9BMQEvIj1RZko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
