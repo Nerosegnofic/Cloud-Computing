@@ -1,1 +1,3 @@
 https://cloudcomputingproject-5deca.web.app
+
+Please note that the web source code is in "public" folder.
